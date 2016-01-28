@@ -2,6 +2,6 @@ angle = [0:0.1:3*pi]
 graph = sin(angle)
 figure
 plot(angle,graph,'*')
-X ('Angle|rad|')
-Y ('Sin(Angle)')
-title ('Y = sin(angle)')
+X ("Angle|rad|")
+Y ("Sin(Angle)")
+title ("Y = sin(angle)")
